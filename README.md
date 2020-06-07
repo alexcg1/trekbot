@@ -6,9 +6,7 @@ Trekbot is a just-for-fun project I'm doing to play with various machine learnin
 
 Performed by a notebook based on [cdpierse's script_buddy](https://github.com/cdpierse/script_buddy_v2), trained on all the script data from every Star Trek TV show before Discovery (yes, even the animated series).
 
-* [Notebook]()
-* [Input data]()
-* [Sample output]()
+* [Read more](script-writing/)
 
 ## Voice Cloning
 
